@@ -8,3 +8,4 @@ Green
 Blue
 Violet
 Indigo
+Monkey
