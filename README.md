@@ -9,3 +9,5 @@ Blue
 Violet
 Indigo
 Monkey
+Ape
+Gorilla
