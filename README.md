@@ -11,3 +11,4 @@ Indigo
 Monkey
 Ape
 Gorilla
+Chimpanzee
