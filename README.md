@@ -12,3 +12,4 @@ Monkey
 Ape
 Gorilla
 Chimpanzee
+Baboon
